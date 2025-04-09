@@ -1,0 +1,337 @@
+﻿"State / Measuring network";"Station code";"Station name";"Station setting";"Station type";Pollutant;"Time scope";Date;Time;"Measure value";Unit
+Brandenburg;DEBB127;Luckenwalde;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Hamburg;DEHH082;"Hamburg Niendorf";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+"North Rhine-Westphalia";DENW431;Düsseldorf-Lohausen;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+"Mecklenburg-West Pomerania";DEMV060;"Neubrandenburg Südstadt";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Brandenburg;DEBB112;Wildau;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Saxony;DESN130;Liebschützberg;"rural secluded";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Brandenburg;DEBB111;Elsterwerda;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+"North Rhine-Westphalia";DENW405;Wesel-Obrighoven;"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Brandenburg;DEBB110;Dallgow-Döberitz;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+UBA;DEUB030;Neuglobsow;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+UBA;DEUB029;Schmücke;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+UBA;DEUB028;Zingst;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+UBA;DEUB005;Waldhof;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+UBA;DEUB004;Schauinsland;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;2;µg/m³
+UBA;DEUB001;Westerland;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Thuringia;DETH117;"Erfurt Bautzener Weg";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Thuringia;DETH095;"Mühlhausen Bastmarkt";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+Thuringia;DETH093;"Weimar Schwanseestr.";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+Thuringia;DETH061;Hummelshain;"rural secluded";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Thuringia;DETH042;Possen;"rural secluded";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Thuringia;DETH041;"Jena Dammstr.";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Thuringia;DETH036;"Greiz Mollbergstr.";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Thuringia;DETH027;Neuhaus;"rural secluded";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+Thuringia;DETH026;Dreißigacker;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Thuringia;DETH020;"Erfurt Krämpferstr.";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Thuringia;DETH018;Nordhausen;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Thuringia;DETH013;"Eisenach Werneburgstr.";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Thuringia;DETH011;"Altenburg Theaterplatz";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Thuringia;DETH009;"Gera Friedericistr.";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Thuringia;DETH005;Saalfeld;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+Saxony-Anhalt;DEST106;"Goldene Aue (Roßla)";"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+Saxony-Anhalt;DEST105;"Stendal Stadtsee";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+Saxony-Anhalt;DEST104;"Domäne Bobbe";"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+Saxony-Anhalt;DEST098;"Unterharz / Friedrichsbrunn";"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+Saxony-Anhalt;DEST089;Zartau/Waldstation;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+Saxony-Anhalt;DEST077;Magdeburg/West;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Saxony-Anhalt;DEST066;Wittenberg/Bahnstrasse;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;28;µg/m³
+Saxony-Anhalt;DEST050;Halle/Nord;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+Saxony-Anhalt;DEST044;Halberstadt;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;28;µg/m³
+Saxony-Anhalt;DEST029;Bernburg;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;33;µg/m³
+Saxony-Anhalt;DEST011;Wernigerode/Bahnhof;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+Saxony-Anhalt;DEST002;Burg;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+Saxony;DESN093;Brockau;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Saxony;DESN092;Dresden-Winckelmannstr.;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Saxony;DESN079;Niesky;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Saxony;DESN074;Schwartenberg;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Saxony;DESN059;Leipzig-West;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Saxony;DESN051;Radebeul-Wahnsdorf;"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Saxony;DESN049;Carlsfeld;"rural secluded";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+Saxony;DESN024;Klingenthal;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Saxony;DESN004;Bautzen;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Saxony;DESN001;Annaberg-Buchholz;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+Schleswig-Holstein;DESH058;Lauenburg-Murjahnstraße;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Schleswig-Holstein;DESH057;Kiel-Bremerskamp;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Schleswig-Holstein;DESH056;Eggebek;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+Schleswig-Holstein;DESH023;"Lübeck-St. Jürgen";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Schleswig-Holstein;DESH015;Itzehoe;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+Schleswig-Holstein;DESH008;Bornhöved;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+Saarland;DESL017;"Völklingen-City Stadionstr.";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;4;µg/m³
+Saarland;DESL012;Saarbrücken-City;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;4;µg/m³
+Saarland;DESL006;Lauterbach;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;4;µg/m³
+Rhineland-Palatinate;DERP053;Speyer-Nord;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Rhineland-Palatinate;DERP028;Westerwald-Neuhäusel;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+Rhineland-Palatinate;DERP022;"Bad Kreuznach-Bosenheimer Straße";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Rhineland-Palatinate;DERP019;Kaiserslautern-Rathausplatz;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;5;µg/m³
+Rhineland-Palatinate;DERP017;Pfälzerwald-Hortenkopf;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;5;µg/m³
+Rhineland-Palatinate;DERP009;Mainz-Zitadelle;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+"North Rhine-Westphalia";DENW247;"Essen-Schuir (LANUV)";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+"North Rhine-Westphalia";DENW179;Schwerte;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+"North Rhine-Westphalia";DENW114;Wuppertal-Langerfeld;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+"North Rhine-Westphalia";DENW096;Mönchengladbach-Rheydt;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+"North Rhine-Westphalia";DENW095;Münster-Geist;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+"North Rhine-Westphalia";DENW081;Borken-Gemen;"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+"North Rhine-Westphalia";DENW079;Leverkusen-Manfort;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+"North Rhine-Westphalia";DENW078;Ratingen-Tiefenbroich;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+"North Rhine-Westphalia";DENW071;Düsseldorf-Lörick;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+"North Rhine-Westphalia";DENW068;Soest-Ost;"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+"North Rhine-Westphalia";DENW067;Bielefeld-Ost;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+"North Rhine-Westphalia";DENW066;Nettetal-Kaldenkirchen;"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+"North Rhine-Westphalia";DENW065;"Netphen Rothaargebirge";"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+"North Rhine-Westphalia";DENW062;Bonn-Auerberg;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+"North Rhine-Westphalia";DENW059;Köln-Rodenkirchen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+"North Rhine-Westphalia";DENW053;Köln-Chorweiler;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+"North Rhine-Westphalia";DENW042;Krefeld-Linn;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+"North Rhine-Westphalia";DENW040;Duisburg-Buchholz;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+"North Rhine-Westphalia";DENW038;Mülheim-Styrum;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+"North Rhine-Westphalia";DENW029;Hattingen-Blankenstein;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;9;µg/m³
+"North Rhine-Westphalia";DENW024;Essen-Vogelheim;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+"North Rhine-Westphalia";DENW022;Gelsenkirchen-Bismarck;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+"North Rhine-Westphalia";DENW010;Unna-Königsborn;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+"North Rhine-Westphalia";DENW008;Dortmund-Eving;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+"North Rhine-Westphalia";DENW002;Datteln-Hagem;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+"Lower Saxony";DENI077;Solling-Süd;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+"Lower Saxony";DENI063;"Altes Land";"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+"Lower Saxony";DENI062;"Lüneburger Heide";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+"Lower Saxony";DENI060;Wendland;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+"Lower Saxony";DENI059;Elbmündung;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+"Lower Saxony";DENI058;"Ostfries. Inseln";"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+"Lower Saxony";DENI054;Hannover;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+"Lower Saxony";DENI052;Allertal;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+"Lower Saxony";DENI051;Wurmberg;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+"Lower Saxony";DENI043;Emsland;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+"Lower Saxony";DENI042;Göttingen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+"Lower Saxony";DENI041;Weserbergland;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+"Lower Saxony";DENI038;Osnabrück;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+"Lower Saxony";DENI031;Jadebusen;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+"Lower Saxony";DENI029;Ostfriesland;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+"Lower Saxony";DENI028;Eichsfeld;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+"Lower Saxony";DENI020;Wolfsburg;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+"Lower Saxony";DENI016;Oker/Harlingerode;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+"Lower Saxony";DENI011;Braunschweig;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+"Mecklenburg-West Pomerania";DEMV028;Wismar;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+"Mecklenburg-West Pomerania";DEMV026;Garz;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+"Mecklenburg-West Pomerania";DEMV024;Leizen;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+"Mecklenburg-West Pomerania";DEMV021;Rostock-Warnemünde;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+"Mecklenburg-West Pomerania";DEMV019;Güstrow;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+"Mecklenburg-West Pomerania";DEMV017;Göhlen;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+"Mecklenburg-West Pomerania";DEMV012;Löcknitz;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+"Mecklenburg-West Pomerania";DEMV007;Rostock-Stuthof;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+"Mecklenburg-West Pomerania";DEMV004;Gülzow;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Hamburg;DEHH081;"Hamburg Hafen";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Hamburg;DEHH079;"Hamburg Altona Elbhang";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+Hamburg;DEHH059;"Hamburg Wilhelmsburg";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Hamburg;DEHH008;"Hamburg Sternschanze";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+Hesse;DEHE135;Frankfurt-Schwanheim;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Hesse;DEHE134;"Fulda Zentral";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Hesse;DEHE060;Kellerwald;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Hesse;DEHE052;"Kleiner Feldberg";"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Hesse;DEHE051;Wasserkuppe;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Hesse;DEHE050;Zierenberg;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+Hesse;DEHE045;Michelstadt;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Hesse;DEHE044;Limburg;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Hesse;DEHE043;Riedstadt;"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Hesse;DEHE032;Bebra;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Hesse;DEHE030;Marburg;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Hesse;DEHE028;Fürth/Odenwald;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Hesse;DEHE024;Witzenhausen/Wald;"rural area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Hesse;DEHE022;"Wiesbaden Süd";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Hesse;DEHE020;Wetzlar;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Hesse;DEHE018;Raunheim;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Hesse;DEHE013;"Kassel Mitte";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+Hesse;DEHE011;Hanau;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+Hesse;DEHE008;"Frankfurt Ost";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+Hesse;DEHE005;Frankfurt-Höchst;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Hesse;DEHE001;Darmstadt;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Bremen;DEHB012;Bremen-Oslebshausen;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Bremen;DEHB005;Bremerhaven-Hansastraße;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Bremen;DEHB002;Bremen-Ost;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Bavaria;DEBY187;Oettingen/Goethestraße;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+Bavaria;DEBY124;"Burgbernheim/Grüne Au";"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Bavaria;DEBY109;Andechs/Rothenfeld;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;3;µg/m³
+Bavaria;DEBY099;Augsburg/LfU;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Bavaria;DEBY089;München/Johanneskirchen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Bavaria;DEBY088;Trostberg/Schwimmbadstraße;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;9;µg/m³
+Bavaria;DEBY077;Würzburg/Kopfklinik;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Bavaria;DEBY075;"Weiden i.d.OPf./Nikolaistraße";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Bavaria;DEBY072;Tiefenbach/Altenschneeberg;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+Bavaria;DEBY067;"Schwandorf/Wackersdorfer Straße";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Bavaria;DEBY058;Nürnberg/Muggenhof;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+Bavaria;DEBY052;Neu-Ulm/Gabelsbergerstraße;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Bavaria;DEBY049;"Neustadt a.d. Donau/Eining";"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Bavaria;DEBY039;München/Lothstraße;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;5;µg/m³
+Bavaria;DEBY031;"Kempten (Allgäu)/Westendstraße";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+Bavaria;DEBY013;Mehring/Sportplatz;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+Bavaria;DEBY009;Bamberg/Löwenbrücke;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Bavaria;DEBY007;Augsburg/Bourges-Platz;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Bavaria;DEBY005;Aschaffenburg/Bussardweg;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Bavaria;DEBY004;"Kleinwallstadt/Hofstetter Straße";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Bavaria;DEBY002;Arzberg/Egerstraße;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+Baden-Württemberg;DEBW112;Gärtringen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+Baden-Württemberg;DEBW107;Tübingen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;9;µg/m³
+Baden-Württemberg;DEBW087;"Schwäbische Alb";"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+Baden-Württemberg;DEBW084;Freiburg;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;3;µg/m³
+Baden-Württemberg;DEBW081;Karlsruhe-Nordwest;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+Baden-Württemberg;DEBW076;Baden-Baden;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;4;µg/m³
+Baden-Württemberg;DEBW073;Neuenburg;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;3;µg/m³
+Baden-Württemberg;DEBW059;Tauberbischofsheim;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Baden-Württemberg;DEBW056;"Schwäbisch Hall";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Baden-Württemberg;DEBW052;Konstanz;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;3;µg/m³
+Baden-Württemberg;DEBW046;Biberach;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+Baden-Württemberg;DEBW042;Bernhausen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Baden-Württemberg;DEBW039;Villingen-Schwenningen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;5;µg/m³
+Baden-Württemberg;DEBW038;Friedrichshafen;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;3;µg/m³
+Baden-Württemberg;DEBW033;Pforzheim;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+Baden-Württemberg;DEBW031;Schwarzwald-Süd;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;1;µg/m³
+Baden-Württemberg;DEBW029;Aalen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Baden-Württemberg;DEBW027;Reutlingen;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+Baden-Württemberg;DEBW024;Ludwigsburg;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Baden-Württemberg;DEBW023;"Weil am Rhein";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;1;µg/m³
+Baden-Württemberg;DEBW019;Ulm;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;15;µg/m³
+Baden-Württemberg;DEBW015;Heilbronn;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Baden-Württemberg;DEBW013;"Stuttgart-Bad Cannstatt";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Baden-Württemberg;DEBW010;Wiesloch;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+Baden-Württemberg;DEBW009;Heidelberg;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+Baden-Württemberg;DEBW004;Eggenstein;"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+Berlin;DEBE068;"Berlin Mitte";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Berlin;DEBE056;"Berlin Friedrichshagen";"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Berlin;DEBE051;"Berlin Buch";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+Berlin;DEBE034;"Berlin Neukölln";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Berlin;DEBE032;"Berlin Grunewald (3.5 m)";"rural near town";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;20;µg/m³
+Berlin;DEBE010;"Berlin Wedding";"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Brandenburg;DEBB092;"Frankfurt (Oder)";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Brandenburg;DEBB086;Blankenfelde-Mahlow;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Brandenburg;DEBB083;Spremberg;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Brandenburg;DEBB075;"Potsdam, Groß Glienicke";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Brandenburg;DEBB067;Nauen;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Brandenburg;DEBB066;Spreewald;"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+Brandenburg;DEBB065;"Lütte (Belzig)";"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+Brandenburg;DEBB064;Cottbus;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Brandenburg;DEBB063;Wittenberge;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Brandenburg;DEBB055;"Brandenburg a.d. Havel";"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Brandenburg;DEBB053;"Hasenholz (Buckow)";"rural regional";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Brandenburg;DEBB048;Neuruppin;"suburban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Brandenburg;DEBB021;Potsdam-Zentrum;"urban area";background;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Saxony-Anhalt;DEST090;Leuna;"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+Saxony-Anhalt;DEST015;Bitterfeld/Wolfen;"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Saarland;DESL003;"Dillingen City";"urban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;5;µg/m³
+Rhineland-Palatinate;DERP047;Trier-Pfalzel;"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+Rhineland-Palatinate;DERP003;Ludwigshafen-Mundenheim;"urban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+"North Rhine-Westphalia";DENW338;Duisburg-Bruckhausen;"urban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;9;µg/m³
+"North Rhine-Westphalia";DENW337;Jüchen-Hochneukirch;"rural near town";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+"North Rhine-Westphalia";DENW329;Jackerath;"rural area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;5;µg/m³
+"North Rhine-Westphalia";DENW181;Warstein;"urban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+"North Rhine-Westphalia";DENW116;"Krefeld (Hafen)";"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;9;µg/m³
+"North Rhine-Westphalia";DENW074;Niederzier;"rural near town";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+"North Rhine-Westphalia";DENW058;Hürth;"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;6;µg/m³
+"North Rhine-Westphalia";DENW021;Bottrop-Welheim;"urban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+"Lower Saxony";DENI070;Salzgitter-Drütte;"rural area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+"Lower Saxony";DENI053;Südoldenburg;"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+"Mecklenburg-West Pomerania";DEMV031;"Rostock-Hohe Düne";"urban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Hamburg;DEHH015;"Hamburg Veddel";"urban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Bremen;DEHB013;Bremen-Hasenbüren;"rural regional";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Baden-Württemberg;DEBW022;Kehl;"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;-;µg/m³
+Baden-Württemberg;DEBW005;Mannheim-Nord;"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Brandenburg;DEBB032;Eisenhüttenstadt;"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Brandenburg;DEBB029;"Schwedt (Oder)";"suburban area";industry;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+Brandenburg;DEBB126;"Oranienburg, Bernauer Str.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Berlin;DEBE127;"Berlin Silbersteinstraße 5";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+"North Rhine-Westphalia";DENW430;"Düsseldorf Merowingerstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;9;µg/m³
+Bavaria;DEBY200;Passau/Angerstr.;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Berlin;DEBE126;"Berlin Karl-Marx-Straße II";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+"Mecklenburg-West Pomerania";DEMV059;"Schwerin Obotr. West";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+"North Rhine-Westphalia";DENW415;"Oberhausen Duisburger Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Saxony-Anhalt;DEST134;Dessau/Roßlau;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;29;µg/m³
+Bavaria;DEBY198;"Ingolstadt/Münchener Str.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Berlin;DEBE125;"Berlin Leipziger Straße (MC)";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+Thuringia;DETH091;"Mühlhausen Wanfrieder Str";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Thuringia;DETH083;"Weimar Steubenstr.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+Thuringia;DETH081;"Erfurt Heinrichstr";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+Thuringia;DETH072;"Suhl F.-König-Str";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Thuringia;DETH043;"Erfurt Bergstr.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Saxony-Anhalt;DEST133;Halle/Riebeckplatz;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;-;µg/m³
+Saxony-Anhalt;DEST112;Magdeburg/Guericke-Stra.;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;31;µg/m³
+Saxony-Anhalt;DEST108;"Weißenfels/Am Krug";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;28;µg/m³
+Saxony-Anhalt;DEST103;"Magdeburg Schleinufer";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;28;µg/m³
+Saxony-Anhalt;DEST102;Halle/Paracelsusstr.;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Saxony-Anhalt;DEST092;"Wittenberg/Dessauer Strasse";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;31;µg/m³
+Saxony;DESN091;"Zwickau-Werdauer Str.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Saxony;DESN084;Dresden-Bergstr.;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Saxony;DESN083;"Chemnitz-Leipziger Str.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Saxony;DESN075;Plauen-Süd;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;16;µg/m³
+Saxony;DESN061;Dresden-Nord;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Saxony;DESN025;Leipzig-Mitte;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Saxony;DESN020;Görlitz;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Schleswig-Holstein;DESH053;"Lübeck Moislinger Allee";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Schleswig-Holstein;DESH027;"Kiel-Bahnhofstr. Verk.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Schleswig-Holstein;DESH022;Flensburg;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Rhineland-Palatinate;DERP046;Neuwied-Hermannstraße;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Rhineland-Palatinate;DERP045;"Koblenz-Hohenfelder Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+Rhineland-Palatinate;DERP041;Ludwigshafen-Heinigstraße;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Rhineland-Palatinate;DERP024;Koblenz-Friedrich-Ebert-Ring;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+Rhineland-Palatinate;DERP023;Worms-Hagenstraße;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Rhineland-Palatinate;DERP010;Mainz-Parcusstraße;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+"North Rhine-Westphalia";DENW356;"Lüdenscheid Lennestraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+"North Rhine-Westphalia";DENW355;"Leverkusen Gustav-Heinemann-Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+"North Rhine-Westphalia";DENW260;"Münster Weseler Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+"North Rhine-Westphalia";DENW259;"Mönchengladbach Friedrich-Ebert-Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;8;µg/m³
+"North Rhine-Westphalia";DENW212;"Köln Turiner Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+"North Rhine-Westphalia";DENW211;"Köln Clevischer Ring";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+"North Rhine-Westphalia";DENW208;"Gelsenkirchen Kurt-Schumacher-Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+"North Rhine-Westphalia";DENW207;"Aachen Wilhelmstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;3;µg/m³
+"North Rhine-Westphalia";DENW200;"Bielefeld Detmolder Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+"North Rhine-Westphalia";DENW189;"Wuppertal Gathe";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+"North Rhine-Westphalia";DENW188;"Oberhausen Mülheimer Straße 117";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+"North Rhine-Westphalia";DENW136;"Dortmund Brackeler Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+"North Rhine-Westphalia";DENW133;"Hagen Graf-von-Galen-Ring";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+"North Rhine-Westphalia";DENW082;"Düsseldorf Corneliusstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+"North Rhine-Westphalia";DENW043;"Essen-Ost Steeler Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+"Lower Saxony";DENI157;"Wolfsburg Heßlinger Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+"Lower Saxony";DENI143;"Oldenburg Heiligengeistwall";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+"Lower Saxony";DENI075;Braunschweig-Verkehr;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+"Lower Saxony";DENI068;Göttingen-Verkehr;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+"Lower Saxony";DENI067;Osnabrück-Verkehr;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+"Lower Saxony";DENI066;"Hildesheim Verkehr";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+"Lower Saxony";DENI048;"Hannover Verkehr";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+"Mecklenburg-West Pomerania";DEMV058;"Neubrandenburg Woldegker Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+"Mecklenburg-West Pomerania";DEMV025;Stralsund-Knieperdamm;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+"Mecklenburg-West Pomerania";DEMV022;Rostock-Holbeinplatz;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+"Mecklenburg-West Pomerania";DEMV020;"Rostock Am Strande";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Hamburg;DEHH068;"Hamburg Habichtstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;24;µg/m³
+Hamburg;DEHH064;"Hamburg Kieler Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Hesse;DEHE131;"Limburg Schiede";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;14;µg/m³
+Hesse;DEHE116;"Offenbach Untere Grenzstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Hesse;DEHE112;"Wiesbaden Schiersteiner Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Hesse;DEHE063;"Heppenheim Lehrstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Hesse;DEHE062;"Marburg Universitätsstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Hesse;DEHE061;"Gießen Westanlage";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Hesse;DEHE059;"Fulda Petersberger Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Hesse;DEHE049;"Kassel Fünffensterstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+Hesse;DEHE041;"Frankfurt Friedberger Landstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;17;µg/m³
+Hesse;DEHE040;"Darmstadt Hügelstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Hesse;DEHE037;"Wiesbaden Ringkirche";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Bavaria;DEBY121;Oberaudorf/Inntal-Autobahn;"rural near town";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;4;µg/m³
+Bavaria;DEBY115;"München/Landshuter Allee";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;9;µg/m³
+Bavaria;DEBY053;Nürnberg/Bahnhof;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;18;µg/m³
+Bavaria;DEBY037;München/Stachus;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Bavaria;DEBY035;"Lindau (Bodensee)/Friedrichshafener Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;4;µg/m³
+Bavaria;DEBY001;Ansbach/Residenzstraße;"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;19;µg/m³
+Baden-Württemberg;DEBW147;"Reutlingen Lederstraße-Ost";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;9;µg/m³
+Baden-Württemberg;DEBW136;"Tübingen Mühlstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;10;µg/m³
+Baden-Württemberg;DEBW122;"Freiburg Schwarzwaldstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;4;µg/m³
+Baden-Württemberg;DEBW118;"Stuttgart Am Neckartor";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;11;µg/m³
+Baden-Württemberg;DEBW099;"Stuttgart Arnulf-Klett-Platz";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;13;µg/m³
+Baden-Württemberg;DEBW098;"Mannheim Friedrichsring";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;12;µg/m³
+Baden-Württemberg;DEBW080;"Karlsruhe Reinhold-Frank-Straße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;7;µg/m³
+Berlin;DEBE069;"Berlin Mariendorfer Damm";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+Berlin;DEBE065;"Berlin Frankfurter Allee";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;27;µg/m³
+Berlin;DEBE061;"Berlin Schildhornstraße";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;26;µg/m³
+Brandenburg;DEBB073;"Potsdam, Großbeerenstr.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Brandenburg;DEBB068;"Bernau, Lohmühlenstr.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+Brandenburg;DEBB054;"Potsdam, Zeppelinstr.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;22;µg/m³
+Brandenburg;DEBB049;"Brandenburg, Neuendorfer Str.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;25;µg/m³
+Brandenburg;DEBB045;"Frankfurt (Oder), Leipziger Str.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;21;µg/m³
+Brandenburg;DEBB044;"Cottbus, Bahnhofstr.";"urban area";traffic;"Particulate matter (PM₂,₅)";"Daily average (1TMW)";2025-03-23;-;23;µg/m³
+
+"Source: German Environment Agency, https://www.umweltbundesamt.de/en/data/air/air-data/stations (Status: 24.03.2025). All times are given in the time valid at the time of measurement (CET or CEST)."
