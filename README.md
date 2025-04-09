@@ -3,4 +3,5 @@
 Hola, aquí compartimos nuestro módulo desarrollado de Programación GIS tanto en R, como en Python basado en ArcGIS Pro, desde ejercicios sencillos para quien no sabe temas de programación, hasta algo más avanzado. 
 
 https://www.linkedin.com/in/cesar-ivan-alvarez-0847253a/
+
 https://scholar.google.com/citations?user=50ILKdkAAAAJ&hl=es
